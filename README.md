@@ -5,6 +5,6 @@
 ### Sunwoo Kim
 
 These are the implemtation codes for the support vector machine.
-I've got help from 
+I've got help from  
 
 https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html
